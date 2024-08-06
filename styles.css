@@ -106,7 +106,11 @@ main {
   }
 }
 
-
+#info {
+  background-color: white;
+  bottom: 0;
+  display: flex;
+}
 
 .box {
   width: 150px;
