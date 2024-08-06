@@ -93,7 +93,7 @@ body {
 .box {
   width: 150px;
   height: 200px;
-  background-color: #dadada;
+  background-color: #ffdba6;
   position: fixed;
   display: flex;
   flex-direction: column;
@@ -128,7 +128,7 @@ body {
 }
 
 footer {
-  background-color: #dadada;
+  background-color: #ffdba6;
   position: absolute;
   bottom: 0;
   width: 100%;
