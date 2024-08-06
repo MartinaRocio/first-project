@@ -27,6 +27,12 @@ body {
   width: 100%;
 }
 
+main {
+  flex: 1;
+  }
+
+
+
 .open-btn {
   position: absolute;
   top: 20px;
