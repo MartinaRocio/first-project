@@ -30,6 +30,8 @@ body {
 
 main {
   flex: 1;
+  position: relative;
+  margin-top: 100vh;
   }
 
 #pot-video {
@@ -110,6 +112,7 @@ main {
   background-color: white;
   bottom: 0;
   display: flex;
+
 }
 
 .box {
