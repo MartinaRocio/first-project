@@ -5,7 +5,7 @@ body {
 }
 
 #header {
-  background-color: #ffdba6;
+  background-color: #ffdba64d;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -31,7 +31,9 @@ main {
   flex: 1;
   }
 
-
+#pot-video {
+  width: 100%;
+}
 
 .open-btn {
   position: absolute;
