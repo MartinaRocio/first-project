@@ -50,7 +50,7 @@ main {
   top: 20px;
   right: 20px;
   padding: 10px;
-  background-color: #ffd191;
+  background-color: grey;
   color: black;
   border: none;
   border-radius: 5px;
@@ -68,7 +68,7 @@ main {
   right: -450px;
   width: 250px;
   height: 100%;
-  background-color: #ffdba6;
+  background-color: grey;
   box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
   transition: right 0.3s ease;
   padding: 20px;
