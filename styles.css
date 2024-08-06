@@ -154,7 +154,7 @@ main {
 }
 
 footer {
-  background-color: grey;
+  background-color: rgba(0, 0, 0, 0.4);
   position: fixed;
   bottom: 0;
   width: 100%;
