@@ -83,10 +83,15 @@ main {
 }
 
 #info {
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.6);
   bottom: 0;
   display: flex;
+}
 
+info-text {
+  font-family: "lato", sans-serif;
+  text-align: center;
+  color: white;
 }
 
 .box {
