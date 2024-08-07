@@ -156,3 +156,10 @@ footer {
   font-family: "lato", sans-serif;
   color: white;
 }
+
+.hero {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding: 2rem;
+}
