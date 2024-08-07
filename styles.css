@@ -17,7 +17,7 @@ body {
 #header-img {
   width: 40px;
   position: absolute;
-  left: 30px;
+  left: 50px;
   top: 20px;
 }
 
@@ -28,7 +28,8 @@ body {
   text-align: center;
   width: 100%;
   color: white;
-  weight: light;
+  font-weight: 200;
+  font-style: normal;
 }
 
 main {
